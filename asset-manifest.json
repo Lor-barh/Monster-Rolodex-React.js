@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/css/main.80ef2819.chunk.css",
+    "main.js": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/main.3b51547d.chunk.js",
+    "main.js.map": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/main.3b51547d.chunk.js.map",
+    "runtime-main.js": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/runtime-main.c68c496c.js",
+    "runtime-main.js.map": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/runtime-main.c68c496c.js.map",
+    "static/js/2.dfbca4df.chunk.js": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/2.dfbca4df.chunk.js",
+    "static/js/2.dfbca4df.chunk.js.map": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/2.dfbca4df.chunk.js.map",
+    "static/js/3.e09558a6.chunk.js": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/3.e09558a6.chunk.js",
+    "static/js/3.e09558a6.chunk.js.map": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/3.e09558a6.chunk.js.map",
+    "index.html": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/index.html",
+    "static/css/main.80ef2819.chunk.css.map": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/css/main.80ef2819.chunk.css.map",
+    "static/js/2.dfbca4df.chunk.js.LICENSE.txt": "/https//Tobi-java.github.io/Monster-Rolodex-React.js/static/js/2.dfbca4df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c68c496c.js",
+    "static/js/2.dfbca4df.chunk.js",
+    "static/css/main.80ef2819.chunk.css",
+    "static/js/main.3b51547d.chunk.js"
+  ]
+}
